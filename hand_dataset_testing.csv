@@ -1,9 +1,21 @@
 image_path,label
-testing/0/left (26).jpg,0
-testing/0/left (27).jpg,0
-testing/1/palm (12).jpg,1
-testing/1/palm (13).jpg,1
-testing/2/peace (13).jpg,2
-testing/2/peace (14).jpg,2
-testing/3/right (23).jpg,3
-testing/3/right (24).jpg,3
+testing\0\Left1.jpg,0
+testing\0\Left2.jpg,0
+testing\0\Left3.jpg,0
+testing\0\Left4.jpg,0
+testing\0\Left5.jpg,0
+testing\1\Palm1.jpg,1
+testing\1\Palm2.jpg,1
+testing\1\Palm3.jpg,1
+testing\1\Palm4.jpg,1
+testing\1\Palm5.jpg,1
+testing\2\Peace1.jpg,2
+testing\2\Peace2.jpg,2
+testing\2\Peace3.jpg,2
+testing\2\Peace4.jpg,2
+testing\2\Peace5.jpg,2
+testing\3\Right1.jpg,3
+testing\3\Right2.jpg,3
+testing\3\Right3.jpg,3
+testing\3\Right4.jpg,3
+testing\3\Right5.jpg,3
