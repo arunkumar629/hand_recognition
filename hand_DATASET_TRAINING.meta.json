@@ -1,5 +1,5 @@
 {
-    "checksum": "idS+l6gqp70AVBJL7t+NKg==",
+    "checksum": "FftlnnrgioWNWV2neQGocg==",
     "data_train_hdf5_fp": "hand_DATASET_TRAINING.hdf5",
     "image_path": {
         "preprocessing": {
@@ -29,10 +29,10 @@
             "most_common": 10000
         },
         "str2freq": {
-            "0": 25,
-            "1": 13,
-            "2": 14,
-            "3": 22,
+            "0": 20,
+            "1": 8,
+            "2": 9,
+            "3": 17,
             "<UNK>": 0
         },
         "str2idx": {

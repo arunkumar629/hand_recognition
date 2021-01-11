@@ -6,63 +6,20 @@
         {
             "conv_layers": [
                 {
-                    "activation": "relu",
-                    "activity_regularizer": null,
-                    "bias_initializer": "zeros",
-                    "bias_regularizer": null,
-                    "dilation_rate": [
-                        1,
-                        1
-                    ],
-                    "dropout": 0,
                     "filter_size": 3,
-                    "norm": null,
-                    "norm_params": null,
                     "num_filters": 32,
-                    "padding": "valid",
-                    "pool_function": "max",
-                    "pool_padding": "valid",
                     "pool_size": 2,
-                    "pool_stride": 2,
-                    "pool_strides": null,
-                    "strides": [
-                        1,
-                        1
-                    ],
-                    "use_bias": true,
-                    "weights_initializer": "glorot_uniform",
-                    "weights_regularizer": null
+                    "pool_stride": 2
                 },
                 {
-                    "activation": "relu",
-                    "activity_regularizer": null,
-                    "bias_initializer": "zeros",
-                    "bias_regularizer": null,
-                    "dilation_rate": [
-                        1,
-                        1
-                    ],
                     "dropout": 0.4,
                     "filter_size": 3,
-                    "norm": null,
-                    "norm_params": null,
                     "num_filters": 64,
-                    "padding": "valid",
-                    "pool_function": "max",
-                    "pool_padding": "valid",
                     "pool_size": 2,
-                    "pool_stride": 2,
-                    "pool_strides": null,
-                    "strides": [
-                        1,
-                        1
-                    ],
-                    "use_bias": true,
-                    "weights_initializer": "glorot_uniform",
-                    "weights_regularizer": null
+                    "pool_stride": 2
                 }
             ],
-            "encoder": "stacked_cnn",
+            "encoder": "resnet",
             "fc_layers": [
                 {
                     "activation": "relu",
