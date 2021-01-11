@@ -1,5 +1,6 @@
 {
     "command": "D:\\softwares\\anaconda\\Scripts\\ludwig train --config_file config.yaml --training_set hand_DATASET_TRAINING.csv",
+    "commit_hash": "4f3cff4d1d65",
     "config": {
         "combiner": {
             "type": "concat"
