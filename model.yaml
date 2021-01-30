@@ -2,7 +2,7 @@ input_features:
     -
         name: image_path
         type: image
-        encoder: stacked_cnn
+        encoder: resnet
 
 
         conv_layers:
@@ -29,4 +29,3 @@ output_features:
 
 training:
     early_stop: 5
-    epochs: 5
